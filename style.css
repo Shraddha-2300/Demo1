@@ -1,0 +1,21 @@
+#box{
+    background-color: aqua;
+}
+
+.heading{
+    color: blue;
+}
+
+h1{
+    text-align: center;
+}
+
+h3{
+    text-transform: capitalize;
+}
+#outer{
+    font-size: 25px;
+}
+#inner{
+    font-size: 15px;
+}
